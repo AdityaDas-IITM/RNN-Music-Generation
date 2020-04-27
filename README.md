@@ -1,4 +1,2 @@
 # RNN-Music-Generation
-Copyright holder for this dataset:
-Name: Bernd Krueger
-Source: http://www.piano-midi.de
+Dataset taken from: https://github.com/Skuldur/Classical-Piano-Composer/tree/master/midi_songs
